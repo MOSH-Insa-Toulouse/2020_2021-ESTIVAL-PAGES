@@ -26,4 +26,4 @@ The shield is composed of :
 ![PCB](/Images/PCBLayout.png)
 
 ### PCB Visualisation
-![Visu3D](/Images/Visu3D.png)
+![Visu3D](/Images/visu3D.png)
