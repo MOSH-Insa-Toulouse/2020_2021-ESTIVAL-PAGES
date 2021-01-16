@@ -20,10 +20,10 @@ The shield is composed of :
 * A LED as an on/off indicator
 
 ### Schematics
-![Schematics](/images/Schematics.png)
+![Schematics](/Images/Schematics.png)
 
 ### PCB Layout
-![PCB](/images/PCBLayout.png)
+![PCB](/Images/PCBLayout.png)
 
 ### PCB Visualisation
-![Visu3D](/images/Visu3D.png)
+![Visu3D](/Images/Visu3D.png)
