@@ -5,5 +5,5 @@ This project is realised in the 5th year PTP ISS at INSA Toulouse. A **LoRa-conn
 # Content
 
 This repository contains: 
-*KiCad PCB files: A shield for the gas sensor to plug on an Arduino Uno (made with KiCad)
-*The datasheet: Complete datasheet for the gaz sensor
+* KiCad PCB files: A shield for the gas sensor to plug on an Arduino Uno (made with KiCad)
+* The datasheet: Complete datasheet for the gaz sensor
